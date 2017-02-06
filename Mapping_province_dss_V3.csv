@@ -1,0 +1,1233 @@
+province_0405_th,NAME_1,Year,Value,Measure
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2013,1,Loan_Growth
+จังหวัดกาญจนบุรี,Kanchanaburi,2013,29,Loan_Growth
+จังหวัดจันทบุรี,Chanthaburi,2013,47,Loan_Growth
+จังหวัดฉะเชิงเทรา,Chachoengsao,2013,38,Loan_Growth
+จังหวัดชลบุรี,Chon Buri,2013,55,Loan_Growth
+จังหวัดชัยนาท,Chai Nat,2013,43,Loan_Growth
+จังหวัดตราด,Trat,2013,47,Loan_Growth
+จังหวัดนครนายก,Nakhon Nayok,2013,29,Loan_Growth
+จังหวัดนครปฐม,Nakhon Pathom,2013,24,Loan_Growth
+จังหวัดนนทบุรี,Nonthaburi,2013,11,Loan_Growth
+จังหวัดปทุมธานี,Pathum Thani,2013,10,Loan_Growth
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2013,54,Loan_Growth
+จังหวัดปราจีนบุรี,Prachin Buri,2013,36,Loan_Growth
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2013,21,Loan_Growth
+จังหวัดเพชรบุรี,Phetchaburi,2013,29,Loan_Growth
+จังหวัดระยอง,Rayong,2013,45,Loan_Growth
+จังหวัดราชบุรี,Ratchaburi,2013,29,Loan_Growth
+จังหวัดลพบุรี,Lop Buri,2013,36,Loan_Growth
+จังหวัดสมุทรปราการ,Samut Prakan,2013,10,Loan_Growth
+จังหวัดสมุทรสงคราม,Samut Songkhram,2013,30,Loan_Growth
+จังหวัดสมุทรสาคร,Samut Sakhon,2013,36,Loan_Growth
+จังหวัดสระแก้ว,Sa Kaeo,2013,50,Loan_Growth
+จังหวัดสระบุรี,Saraburi,2013,30,Loan_Growth
+จังหวัดสิงห์บุรี,Sing Buri,2013,26,Loan_Growth
+จังหวัดสุพรรณบุรี,Suphan Buri,2013,29,Loan_Growth
+จังหวัดอ่างทอง,Ang Thong,2013,32,Loan_Growth
+จังหวัดกาฬสินธุ์,Kalasin,2013,44,Loan_Growth
+จังหวัดขอนแก่น,Khon Kaen,2013,35,Loan_Growth
+จังหวัดชัยภูมิ,Chaiyaphum,2013,39,Loan_Growth
+จังหวัดนครพนม,Nakhon Phanom,2013,42,Loan_Growth
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2013,42,Loan_Growth
+จังหวัดบึงกาฬ,Bueng Kan,2013,109,Loan_Growth
+จังหวัดบุรีรัมย์,Buri Ram,2013,53,Loan_Growth
+จังหวัดมหาสารคาม,Maha Sarakham,2013,29,Loan_Growth
+จังหวัดมุกดาหาร,Mukdahan,2013,52,Loan_Growth
+จังหวัดยโสธร,Yasothon,2013,45,Loan_Growth
+จังหวัดร้อยเอ็ด,Roi Et,2013,59,Loan_Growth
+จังหวัดเลย,Loei,2013,46,Loan_Growth
+จังหวัดศรีสะเกษ,Si Sa Ket,2013,36,Loan_Growth
+จังหวัดสกลนคร,Sakon Nakhon,2013,44,Loan_Growth
+จังหวัดสุรินทร์,Surin,2013,36,Loan_Growth
+จังหวัดหนองคาย,Nong Khai,2013,55,Loan_Growth
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2013,47,Loan_Growth
+จังหวัดอำนาจเจริญ,Amnat Charoen,2013,35,Loan_Growth
+จังหวัดอุดรธานี,Udon Thani,2013,46,Loan_Growth
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2013,46,Loan_Growth
+จังหวัดกระบี่,Krabi,2013,34,Loan_Growth
+จังหวัดชุมพร,Chumphon,2013,23,Loan_Growth
+จังหวัดตรัง,Trang,2013,25,Loan_Growth
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2013,37,Loan_Growth
+จังหวัดนราธิวาส,Narathiwat,2013,29,Loan_Growth
+จังหวัดปัตตานี,Pattani,2013,26,Loan_Growth
+จังหวัดพังงา,Phangnga,2013,15,Loan_Growth
+จังหวัดพัทลุง,Phatthalung,2013,27,Loan_Growth
+จังหวัดภูเก็ต,Phuket,2013,30,Loan_Growth
+จังหวัดยะลา,Yala,2013,28,Loan_Growth
+จังหวัดระนอง,Ranong,2013,20,Loan_Growth
+จังหวัดสงขลา,Songkhla,2013,31,Loan_Growth
+จังหวัดสตูล,Satun,2013,36,Loan_Growth
+จังหวัดสุราษฎร์ธานี,Surat Thani,2013,36,Loan_Growth
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2013,36,Loan_Growth
+จังหวัดเชียงราย,Chiang Rai,2013,57,Loan_Growth
+จังหวัดเชียงใหม่,Chiang Mai,2013,46,Loan_Growth
+จังหวัดตาก,Tak,2013,52,Loan_Growth
+จังหวัดนครสวรรค์,Nakhon Sawan,2013,32,Loan_Growth
+จังหวัดน่าน,Nan,2013,75,Loan_Growth
+จังหวัดพะเยา,Phayao,2013,63,Loan_Growth
+จังหวัดพิจิตร,Phichit,2013,26,Loan_Growth
+จังหวัดพิษณุโลก,Phitsanulok,2013,42,Loan_Growth
+จังหวัดเพชรบูรณ์,Phetchabun,2013,44,Loan_Growth
+จังหวัดแพร่,Phrae,2013,39,Loan_Growth
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2013,74,Loan_Growth
+จังหวัดลำปาง,Lampang,2013,32,Loan_Growth
+จังหวัดลำพูน,Lamphun,2013,70,Loan_Growth
+จังหวัดสุโขทัย,Sukhothai,2013,52,Loan_Growth
+จังหวัดอุตรดิตถ์,Uttaradit,2013,29,Loan_Growth
+จังหวัดอุทัยธานี,Uthai Thani,2013,39,Loan_Growth
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2014,10,Loan_Growth
+จังหวัดกาญจนบุรี,Kanchanaburi,2014,15,Loan_Growth
+จังหวัดจันทบุรี,Chanthaburi,2014,15,Loan_Growth
+จังหวัดฉะเชิงเทรา,Chachoengsao,2014,19,Loan_Growth
+จังหวัดชลบุรี,Chon Buri,2014,24,Loan_Growth
+จังหวัดชัยนาท,Chai Nat,2014,9,Loan_Growth
+จังหวัดตราด,Trat,2014,18,Loan_Growth
+จังหวัดนครนายก,Nakhon Nayok,2014,13,Loan_Growth
+จังหวัดนครปฐม,Nakhon Pathom,2014,13,Loan_Growth
+จังหวัดนนทบุรี,Nonthaburi,2014,10,Loan_Growth
+จังหวัดปทุมธานี,Pathum Thani,2014,15,Loan_Growth
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2014,15,Loan_Growth
+จังหวัดปราจีนบุรี,Prachin Buri,2014,17,Loan_Growth
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2014,9,Loan_Growth
+จังหวัดเพชรบุรี,Phetchaburi,2014,12,Loan_Growth
+จังหวัดระยอง,Rayong,2014,21,Loan_Growth
+จังหวัดราชบุรี,Ratchaburi,2014,6,Loan_Growth
+จังหวัดลพบุรี,Lop Buri,2014,10,Loan_Growth
+จังหวัดสมุทรปราการ,Samut Prakan,2014,12,Loan_Growth
+จังหวัดสมุทรสงคราม,Samut Songkhram,2014,9,Loan_Growth
+จังหวัดสมุทรสาคร,Samut Sakhon,2014,14,Loan_Growth
+จังหวัดสระแก้ว,Sa Kaeo,2014,24,Loan_Growth
+จังหวัดสระบุรี,Saraburi,2014,25,Loan_Growth
+จังหวัดสิงห์บุรี,Sing Buri,2014,0,Loan_Growth
+จังหวัดสุพรรณบุรี,Suphan Buri,2014,16,Loan_Growth
+จังหวัดอ่างทอง,Ang Thong,2014,6,Loan_Growth
+จังหวัดกาฬสินธุ์,Kalasin,2014,21,Loan_Growth
+จังหวัดขอนแก่น,Khon Kaen,2014,22,Loan_Growth
+จังหวัดชัยภูมิ,Chaiyaphum,2014,6,Loan_Growth
+จังหวัดนครพนม,Nakhon Phanom,2014,19,Loan_Growth
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2014,19,Loan_Growth
+จังหวัดบึงกาฬ,Bueng Kan,2014,21,Loan_Growth
+จังหวัดบุรีรัมย์,Buri Ram,2014,17,Loan_Growth
+จังหวัดมหาสารคาม,Maha Sarakham,2014,22,Loan_Growth
+จังหวัดมุกดาหาร,Mukdahan,2014,20,Loan_Growth
+จังหวัดยโสธร,Yasothon,2014,17,Loan_Growth
+จังหวัดร้อยเอ็ด,Roi Et,2014,20,Loan_Growth
+จังหวัดเลย,Loei,2014,11,Loan_Growth
+จังหวัดศรีสะเกษ,Si Sa Ket,2014,11,Loan_Growth
+จังหวัดสกลนคร,Sakon Nakhon,2014,17,Loan_Growth
+จังหวัดสุรินทร์,Surin,2014,23,Loan_Growth
+จังหวัดหนองคาย,Nong Khai,2014,12,Loan_Growth
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2014,19,Loan_Growth
+จังหวัดอำนาจเจริญ,Amnat Charoen,2014,13,Loan_Growth
+จังหวัดอุดรธานี,Udon Thani,2014,20,Loan_Growth
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2014,22,Loan_Growth
+จังหวัดกระบี่,Krabi,2014,14,Loan_Growth
+จังหวัดชุมพร,Chumphon,2014,6,Loan_Growth
+จังหวัดตรัง,Trang,2014,18,Loan_Growth
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2014,15,Loan_Growth
+จังหวัดนราธิวาส,Narathiwat,2014,16,Loan_Growth
+จังหวัดปัตตานี,Pattani,2014,8,Loan_Growth
+จังหวัดพังงา,Phangnga,2014,6,Loan_Growth
+จังหวัดพัทลุง,Phatthalung,2014,19,Loan_Growth
+จังหวัดภูเก็ต,Phuket,2014,8,Loan_Growth
+จังหวัดยะลา,Yala,2014,14,Loan_Growth
+จังหวัดระนอง,Ranong,2014,-4,Loan_Growth
+จังหวัดสงขลา,Songkhla,2014,14,Loan_Growth
+จังหวัดสตูล,Satun,2014,18,Loan_Growth
+จังหวัดสุราษฎร์ธานี,Surat Thani,2014,12,Loan_Growth
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2014,16,Loan_Growth
+จังหวัดเชียงราย,Chiang Rai,2014,17,Loan_Growth
+จังหวัดเชียงใหม่,Chiang Mai,2014,18,Loan_Growth
+จังหวัดตาก,Tak,2014,10,Loan_Growth
+จังหวัดนครสวรรค์,Nakhon Sawan,2014,10,Loan_Growth
+จังหวัดน่าน,Nan,2014,3,Loan_Growth
+จังหวัดพะเยา,Phayao,2014,15,Loan_Growth
+จังหวัดพิจิตร,Phichit,2014,2,Loan_Growth
+จังหวัดพิษณุโลก,Phitsanulok,2014,17,Loan_Growth
+จังหวัดเพชรบูรณ์,Phetchabun,2014,9,Loan_Growth
+จังหวัดแพร่,Phrae,2014,7,Loan_Growth
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2014,12,Loan_Growth
+จังหวัดลำปาง,Lampang,2014,6,Loan_Growth
+จังหวัดลำพูน,Lamphun,2014,8,Loan_Growth
+จังหวัดสุโขทัย,Sukhothai,2014,8,Loan_Growth
+จังหวัดอุตรดิตถ์,Uttaradit,2014,2,Loan_Growth
+จังหวัดอุทัยธานี,Uthai Thani,2014,3,Loan_Growth
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2015,9,Loan_Growth
+จังหวัดกาญจนบุรี,Kanchanaburi,2015,13,Loan_Growth
+จังหวัดจันทบุรี,Chanthaburi,2015,9,Loan_Growth
+จังหวัดฉะเชิงเทรา,Chachoengsao,2015,11,Loan_Growth
+จังหวัดชลบุรี,Chon Buri,2015,17,Loan_Growth
+จังหวัดชัยนาท,Chai Nat,2015,4,Loan_Growth
+จังหวัดตราด,Trat,2015,11,Loan_Growth
+จังหวัดนครนายก,Nakhon Nayok,2015,10,Loan_Growth
+จังหวัดนครปฐม,Nakhon Pathom,2015,10,Loan_Growth
+จังหวัดนนทบุรี,Nonthaburi,2015,13,Loan_Growth
+จังหวัดปทุมธานี,Pathum Thani,2015,8,Loan_Growth
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2015,10,Loan_Growth
+จังหวัดปราจีนบุรี,Prachin Buri,2015,14,Loan_Growth
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2015,6,Loan_Growth
+จังหวัดเพชรบุรี,Phetchaburi,2015,9,Loan_Growth
+จังหวัดระยอง,Rayong,2015,15,Loan_Growth
+จังหวัดราชบุรี,Ratchaburi,2015,6,Loan_Growth
+จังหวัดลพบุรี,Lop Buri,2015,8,Loan_Growth
+จังหวัดสมุทรปราการ,Samut Prakan,2015,8,Loan_Growth
+จังหวัดสมุทรสงคราม,Samut Songkhram,2015,7,Loan_Growth
+จังหวัดสมุทรสาคร,Samut Sakhon,2015,5,Loan_Growth
+จังหวัดสระแก้ว,Sa Kaeo,2015,10,Loan_Growth
+จังหวัดสระบุรี,Saraburi,2015,12,Loan_Growth
+จังหวัดสิงห์บุรี,Sing Buri,2015,3,Loan_Growth
+จังหวัดสุพรรณบุรี,Suphan Buri,2015,7,Loan_Growth
+จังหวัดอ่างทอง,Ang Thong,2015,1,Loan_Growth
+จังหวัดกาฬสินธุ์,Kalasin,2015,11,Loan_Growth
+จังหวัดขอนแก่น,Khon Kaen,2015,8,Loan_Growth
+จังหวัดชัยภูมิ,Chaiyaphum,2015,3,Loan_Growth
+จังหวัดนครพนม,Nakhon Phanom,2015,8,Loan_Growth
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2015,6,Loan_Growth
+จังหวัดบึงกาฬ,Bueng Kan,2015,15,Loan_Growth
+จังหวัดบุรีรัมย์,Buri Ram,2015,7,Loan_Growth
+จังหวัดมหาสารคาม,Maha Sarakham,2015,20,Loan_Growth
+จังหวัดมุกดาหาร,Mukdahan,2015,18,Loan_Growth
+จังหวัดยโสธร,Yasothon,2015,12,Loan_Growth
+จังหวัดร้อยเอ็ด,Roi Et,2015,17,Loan_Growth
+จังหวัดเลย,Loei,2015,12,Loan_Growth
+จังหวัดศรีสะเกษ,Si Sa Ket,2015,6,Loan_Growth
+จังหวัดสกลนคร,Sakon Nakhon,2015,14,Loan_Growth
+จังหวัดสุรินทร์,Surin,2015,6,Loan_Growth
+จังหวัดหนองคาย,Nong Khai,2015,3,Loan_Growth
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2015,4,Loan_Growth
+จังหวัดอำนาจเจริญ,Amnat Charoen,2015,11,Loan_Growth
+จังหวัดอุดรธานี,Udon Thani,2015,9,Loan_Growth
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2015,12,Loan_Growth
+จังหวัดกระบี่,Krabi,2015,7,Loan_Growth
+จังหวัดชุมพร,Chumphon,2015,-5,Loan_Growth
+จังหวัดตรัง,Trang,2015,9,Loan_Growth
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2015,8,Loan_Growth
+จังหวัดนราธิวาส,Narathiwat,2015,15,Loan_Growth
+จังหวัดปัตตานี,Pattani,2015,-3,Loan_Growth
+จังหวัดพังงา,Phangnga,2015,4,Loan_Growth
+จังหวัดพัทลุง,Phatthalung,2015,0,Loan_Growth
+จังหวัดภูเก็ต,Phuket,2015,3,Loan_Growth
+จังหวัดยะลา,Yala,2015,0,Loan_Growth
+จังหวัดระนอง,Ranong,2015,4,Loan_Growth
+จังหวัดสงขลา,Songkhla,2015,6,Loan_Growth
+จังหวัดสตูล,Satun,2015,10,Loan_Growth
+จังหวัดสุราษฎร์ธานี,Surat Thani,2015,5,Loan_Growth
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2015,7,Loan_Growth
+จังหวัดเชียงราย,Chiang Rai,2015,14,Loan_Growth
+จังหวัดเชียงใหม่,Chiang Mai,2015,10,Loan_Growth
+จังหวัดตาก,Tak,2015,8,Loan_Growth
+จังหวัดนครสวรรค์,Nakhon Sawan,2015,5,Loan_Growth
+จังหวัดน่าน,Nan,2015,-2,Loan_Growth
+จังหวัดพะเยา,Phayao,2015,9,Loan_Growth
+จังหวัดพิจิตร,Phichit,2015,4,Loan_Growth
+จังหวัดพิษณุโลก,Phitsanulok,2015,6,Loan_Growth
+จังหวัดเพชรบูรณ์,Phetchabun,2015,2,Loan_Growth
+จังหวัดแพร่,Phrae,2015,8,Loan_Growth
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2015,4,Loan_Growth
+จังหวัดลำปาง,Lampang,2015,5,Loan_Growth
+จังหวัดลำพูน,Lamphun,2015,16,Loan_Growth
+จังหวัดสุโขทัย,Sukhothai,2015,5,Loan_Growth
+จังหวัดอุตรดิตถ์,Uttaradit,2015,1,Loan_Growth
+จังหวัดอุทัยธานี,Uthai Thani,2015,-3,Loan_Growth
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2016Q3,10,Loan_Growth
+จังหวัดกาญจนบุรี,Kanchanaburi,2016Q3,10,Loan_Growth
+จังหวัดจันทบุรี,Chanthaburi,2016Q3,2,Loan_Growth
+จังหวัดฉะเชิงเทรา,Chachoengsao,2016Q3,-3,Loan_Growth
+จังหวัดชลบุรี,Chon Buri,2016Q3,12,Loan_Growth
+จังหวัดชัยนาท,Chai Nat,2016Q3,5,Loan_Growth
+จังหวัดตราด,Trat,2016Q3,7,Loan_Growth
+จังหวัดนครนายก,Nakhon Nayok,2016Q3,5,Loan_Growth
+จังหวัดนครปฐม,Nakhon Pathom,2016Q3,7,Loan_Growth
+จังหวัดนนทบุรี,Nonthaburi,2016Q3,14,Loan_Growth
+จังหวัดปทุมธานี,Pathum Thani,2016Q3,5,Loan_Growth
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2016Q3,7,Loan_Growth
+จังหวัดปราจีนบุรี,Prachin Buri,2016Q3,11,Loan_Growth
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2016Q3,2,Loan_Growth
+จังหวัดเพชรบุรี,Phetchaburi,2016Q3,6,Loan_Growth
+จังหวัดระยอง,Rayong,2016Q3,13,Loan_Growth
+จังหวัดราชบุรี,Ratchaburi,2016Q3,2,Loan_Growth
+จังหวัดลพบุรี,Lop Buri,2016Q3,4,Loan_Growth
+จังหวัดสมุทรปราการ,Samut Prakan,2016Q3,8,Loan_Growth
+จังหวัดสมุทรสงคราม,Samut Songkhram,2016Q3,2,Loan_Growth
+จังหวัดสมุทรสาคร,Samut Sakhon,2016Q3,3,Loan_Growth
+จังหวัดสระแก้ว,Sa Kaeo,2016Q3,7,Loan_Growth
+จังหวัดสระบุรี,Saraburi,2016Q3,6,Loan_Growth
+จังหวัดสิงห์บุรี,Sing Buri,2016Q3,-2,Loan_Growth
+จังหวัดสุพรรณบุรี,Suphan Buri,2016Q3,4,Loan_Growth
+จังหวัดอ่างทอง,Ang Thong,2016Q3,0,Loan_Growth
+จังหวัดกาฬสินธุ์,Kalasin,2016Q3,0,Loan_Growth
+จังหวัดขอนแก่น,Khon Kaen,2016Q3,3,Loan_Growth
+จังหวัดชัยภูมิ,Chaiyaphum,2016Q3,1,Loan_Growth
+จังหวัดนครพนม,Nakhon Phanom,2016Q3,-9,Loan_Growth
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2016Q3,5,Loan_Growth
+จังหวัดบึงกาฬ,Bueng Kan,2016Q3,4,Loan_Growth
+จังหวัดบุรีรัมย์,Buri Ram,2016Q3,0,Loan_Growth
+จังหวัดมหาสารคาม,Maha Sarakham,2016Q3,6,Loan_Growth
+จังหวัดมุกดาหาร,Mukdahan,2016Q3,6,Loan_Growth
+จังหวัดยโสธร,Yasothon,2016Q3,-2,Loan_Growth
+จังหวัดร้อยเอ็ด,Roi Et,2016Q3,10,Loan_Growth
+จังหวัดเลย,Loei,2016Q3,9,Loan_Growth
+จังหวัดศรีสะเกษ,Si Sa Ket,2016Q3,0,Loan_Growth
+จังหวัดสกลนคร,Sakon Nakhon,2016Q3,-1,Loan_Growth
+จังหวัดสุรินทร์,Surin,2016Q3,-1,Loan_Growth
+จังหวัดหนองคาย,Nong Khai,2016Q3,-4,Loan_Growth
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2016Q3,2,Loan_Growth
+จังหวัดอำนาจเจริญ,Amnat Charoen,2016Q3,9,Loan_Growth
+จังหวัดอุดรธานี,Udon Thani,2016Q3,6,Loan_Growth
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2016Q3,4,Loan_Growth
+จังหวัดกระบี่,Krabi,2016Q3,-1,Loan_Growth
+จังหวัดชุมพร,Chumphon,2016Q3,-4,Loan_Growth
+จังหวัดตรัง,Trang,2016Q3,3,Loan_Growth
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2016Q3,1,Loan_Growth
+จังหวัดนราธิวาส,Narathiwat,2016Q3,14,Loan_Growth
+จังหวัดปัตตานี,Pattani,2016Q3,-1,Loan_Growth
+จังหวัดพังงา,Phangnga,2016Q3,-2,Loan_Growth
+จังหวัดพัทลุง,Phatthalung,2016Q3,13,Loan_Growth
+จังหวัดภูเก็ต,Phuket,2016Q3,2,Loan_Growth
+จังหวัดยะลา,Yala,2016Q3,-6,Loan_Growth
+จังหวัดระนอง,Ranong,2016Q3,4,Loan_Growth
+จังหวัดสงขลา,Songkhla,2016Q3,3,Loan_Growth
+จังหวัดสตูล,Satun,2016Q3,0,Loan_Growth
+จังหวัดสุราษฎร์ธานี,Surat Thani,2016Q3,0,Loan_Growth
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2016Q3,-12,Loan_Growth
+จังหวัดเชียงราย,Chiang Rai,2016Q3,-2,Loan_Growth
+จังหวัดเชียงใหม่,Chiang Mai,2016Q3,6,Loan_Growth
+จังหวัดตาก,Tak,2016Q3,0,Loan_Growth
+จังหวัดนครสวรรค์,Nakhon Sawan,2016Q3,-2,Loan_Growth
+จังหวัดน่าน,Nan,2016Q3,-1,Loan_Growth
+จังหวัดพะเยา,Phayao,2016Q3,-14,Loan_Growth
+จังหวัดพิจิตร,Phichit,2016Q3,-3,Loan_Growth
+จังหวัดพิษณุโลก,Phitsanulok,2016Q3,1,Loan_Growth
+จังหวัดเพชรบูรณ์,Phetchabun,2016Q3,1,Loan_Growth
+จังหวัดแพร่,Phrae,2016Q3,1,Loan_Growth
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2016Q3,-14,Loan_Growth
+จังหวัดลำปาง,Lampang,2016Q3,9,Loan_Growth
+จังหวัดลำพูน,Lamphun,2016Q3,10,Loan_Growth
+จังหวัดสุโขทัย,Sukhothai,2016Q3,-2,Loan_Growth
+จังหวัดอุตรดิตถ์,Uttaradit,2016Q3,-1,Loan_Growth
+จังหวัดอุทัยธานี,Uthai Thani,2016Q3,-4,Loan_Growth
+จังหวัดกระบี่,Krabi,2012,5362,OS_MB
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2012,826122,OS_MB
+จังหวัดกาญจนบุรี,Kanchanaburi,2012,2635,OS_MB
+จังหวัดกาฬสินธุ์,Kalasin,2012,842,OS_MB
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2012,1556,OS_MB
+จังหวัดขอนแก่น,Khon Kaen,2012,15421,OS_MB
+จังหวัดจันทบุรี,Chanthaburi,2012,2949,OS_MB
+จังหวัดฉะเชิงเทรา,Chachoengsao,2012,7430,OS_MB
+จังหวัดชลบุรี,Chon Buri,2012,55811,OS_MB
+จังหวัดชัยนาท,Chai Nat,2012,577,OS_MB
+จังหวัดชัยภูมิ,Chaiyaphum,2012,1665,OS_MB
+จังหวัดชุมพร,Chumphon,2012,3270,OS_MB
+จังหวัดเชียงราย,Chiang Rai,2012,4737,OS_MB
+จังหวัดเชียงใหม่,Chiang Mai,2012,28289,OS_MB
+จังหวัดตรัง,Trang,2012,3559,OS_MB
+จังหวัดตราด,Trat,2012,875,OS_MB
+จังหวัดตาก,Tak,2012,1447,OS_MB
+จังหวัดนครนายก,Nakhon Nayok,2012,939,OS_MB
+จังหวัดนครปฐม,Nakhon Pathom,2012,11522,OS_MB
+จังหวัดนครพนม,Nakhon Phanom,2012,846,OS_MB
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2012,14676,OS_MB
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2012,8660,OS_MB
+จังหวัดนครสวรรค์,Nakhon Sawan,2012,4515,OS_MB
+จังหวัดนนทบุรี,Nonthaburi,2012,42351,OS_MB
+จังหวัดนราธิวาส,Narathiwat,2012,790,OS_MB
+จังหวัดน่าน,Nan,2012,500,OS_MB
+จังหวัดบึงกาฬ,Bueng Kan,2012,324,OS_MB
+จังหวัดบุรีรัมย์,Buri Ram,2012,1996,OS_MB
+จังหวัดปทุมธานี,Pathum Thani,2012,32871,OS_MB
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2012,5578,OS_MB
+จังหวัดปราจีนบุรี,Prachin Buri,2012,2177,OS_MB
+จังหวัดปัตตานี,Pattani,2012,1028,OS_MB
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2012,10776,OS_MB
+จังหวัดพะเยา,Phayao,2012,1099,OS_MB
+จังหวัดพังงา,Phangnga,2012,2443,OS_MB
+จังหวัดพัทลุง,Phatthalung,2012,1715,OS_MB
+จังหวัดพิจิตร,Phichit,2012,1842,OS_MB
+จังหวัดพิษณุโลก,Phitsanulok,2012,5693,OS_MB
+จังหวัดเพชรบุรี,Phetchaburi,2012,3615,OS_MB
+จังหวัดเพชรบูรณ์,Phetchabun,2012,2053,OS_MB
+จังหวัดแพร่,Phrae,2012,1013,OS_MB
+จังหวัดภูเก็ต,Phuket,2012,39355,OS_MB
+จังหวัดมหาสารคาม,Maha Sarakham,2012,2146,OS_MB
+จังหวัดมุกดาหาร,Mukdahan,2012,581,OS_MB
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2012,379,OS_MB
+จังหวัดยโสธร,Yasothon,2012,676,OS_MB
+จังหวัดยะลา,Yala,2012,2336,OS_MB
+จังหวัดร้อยเอ็ด,Roi Et,2012,1493,OS_MB
+จังหวัดระนอง,Ranong,2012,915,OS_MB
+จังหวัดระยอง,Rayong,2012,17273,OS_MB
+จังหวัดราชบุรี,Ratchaburi,2012,6205,OS_MB
+จังหวัดลพบุรี,Lop Buri,2012,2556,OS_MB
+จังหวัดลำปาง,Lampang,2012,3008,OS_MB
+จังหวัดลำพูน,Lamphun,2012,1711,OS_MB
+จังหวัดเลย,Loei,2012,856,OS_MB
+จังหวัดศรีสะเกษ,Si Sa Ket,2012,1499,OS_MB
+จังหวัดสกลนคร,Sakon Nakhon,2012,1509,OS_MB
+จังหวัดสงขลา,Songkhla,2012,21473,OS_MB
+จังหวัดสตูล,Satun,2012,1058,OS_MB
+จังหวัดสมุทรปราการ,Samut Prakan,2012,39261,OS_MB
+จังหวัดสมุทรสงคราม,Samut Songkhram,2012,1703,OS_MB
+จังหวัดสมุทรสาคร,Samut Sakhon,2012,11289,OS_MB
+จังหวัดสระแก้ว,Sa Kaeo,2012,961,OS_MB
+จังหวัดสระบุรี,Saraburi,2012,4397,OS_MB
+จังหวัดสิงห์บุรี,Sing Buri,2012,629,OS_MB
+จังหวัดสุโขทัย,Sukhothai,2012,929,OS_MB
+จังหวัดสุพรรณบุรี,Suphan Buri,2012,2994,OS_MB
+จังหวัดสุราษฎร์ธานี,Surat Thani,2012,14865,OS_MB
+จังหวัดสุรินทร์,Surin,2012,1946,OS_MB
+จังหวัดหนองคาย,Nong Khai,2012,1536,OS_MB
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2012,494,OS_MB
+จังหวัดอ่างทอง,Ang Thong,2012,937,OS_MB
+จังหวัดอำนาจเจริญ,Amnat Charoen,2012,559,OS_MB
+จังหวัดอุดรธานี,Udon Thani,2012,5721,OS_MB
+จังหวัดอุตรดิตถ์,Uttaradit,2012,1271,OS_MB
+จังหวัดอุทัยธานี,Uthai Thani,2012,421,OS_MB
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2012,4556,OS_MB
+จังหวัดกระบี่,Krabi,2013,7200,OS_MB
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2013,837726,OS_MB
+จังหวัดกาญจนบุรี,Kanchanaburi,2013,3393,OS_MB
+จังหวัดกาฬสินธุ์,Kalasin,2013,1217,OS_MB
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2013,2122,OS_MB
+จังหวัดขอนแก่น,Khon Kaen,2013,20817,OS_MB
+จังหวัดจันทบุรี,Chanthaburi,2013,4337,OS_MB
+จังหวัดฉะเชิงเทรา,Chachoengsao,2013,10230,OS_MB
+จังหวัดชลบุรี,Chon Buri,2013,86410,OS_MB
+จังหวัดชัยนาท,Chai Nat,2013,824,OS_MB
+จังหวัดชัยภูมิ,Chaiyaphum,2013,2317,OS_MB
+จังหวัดชุมพร,Chumphon,2013,4030,OS_MB
+จังหวัดเชียงราย,Chiang Rai,2013,7421,OS_MB
+จังหวัดเชียงใหม่,Chiang Mai,2013,41390,OS_MB
+จังหวัดตรัง,Trang,2013,4452,OS_MB
+จังหวัดตราด,Trat,2013,1287,OS_MB
+จังหวัดตาก,Tak,2013,2203,OS_MB
+จังหวัดนครนายก,Nakhon Nayok,2013,1212,OS_MB
+จังหวัดนครปฐม,Nakhon Pathom,2013,14296,OS_MB
+จังหวัดนครพนม,Nakhon Phanom,2013,1205,OS_MB
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2013,20897,OS_MB
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2013,11843,OS_MB
+จังหวัดนครสวรรค์,Nakhon Sawan,2013,5961,OS_MB
+จังหวัดนนทบุรี,Nonthaburi,2013,47138,OS_MB
+จังหวัดนราธิวาส,Narathiwat,2013,1016,OS_MB
+จังหวัดน่าน,Nan,2013,873,OS_MB
+จังหวัดบึงกาฬ,Bueng Kan,2013,676,OS_MB
+จังหวัดบุรีรัมย์,Buri Ram,2013,3049,OS_MB
+จังหวัดปทุมธานี,Pathum Thani,2013,36298,OS_MB
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2013,8580,OS_MB
+จังหวัดปราจีนบุรี,Prachin Buri,2013,2959,OS_MB
+จังหวัดปัตตานี,Pattani,2013,1299,OS_MB
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2013,13083,OS_MB
+จังหวัดพะเยา,Phayao,2013,1788,OS_MB
+จังหวัดพังงา,Phangnga,2013,2810,OS_MB
+จังหวัดพัทลุง,Phatthalung,2013,2180,OS_MB
+จังหวัดพิจิตร,Phichit,2013,2317,OS_MB
+จังหวัดพิษณุโลก,Phitsanulok,2013,8064,OS_MB
+จังหวัดเพชรบุรี,Phetchaburi,2013,4648,OS_MB
+จังหวัดเพชรบูรณ์,Phetchabun,2013,2950,OS_MB
+จังหวัดแพร่,Phrae,2013,1409,OS_MB
+จังหวัดภูเก็ต,Phuket,2013,51295,OS_MB
+จังหวัดมหาสารคาม,Maha Sarakham,2013,2777,OS_MB
+จังหวัดมุกดาหาร,Mukdahan,2013,881,OS_MB
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2013,658,OS_MB
+จังหวัดยโสธร,Yasothon,2013,982,OS_MB
+จังหวัดยะลา,Yala,2013,2981,OS_MB
+จังหวัดร้อยเอ็ด,Roi Et,2013,2370,OS_MB
+จังหวัดระนอง,Ranong,2013,1098,OS_MB
+จังหวัดระยอง,Rayong,2013,25069,OS_MB
+จังหวัดราชบุรี,Ratchaburi,2013,8033,OS_MB
+จังหวัดลพบุรี,Lop Buri,2013,3464,OS_MB
+จังหวัดลำปาง,Lampang,2013,3976,OS_MB
+จังหวัดลำพูน,Lamphun,2013,2907,OS_MB
+จังหวัดเลย,Loei,2013,1249,OS_MB
+จังหวัดศรีสะเกษ,Si Sa Ket,2013,2041,OS_MB
+จังหวัดสกลนคร,Sakon Nakhon,2013,2169,OS_MB
+จังหวัดสงขลา,Songkhla,2013,28102,OS_MB
+จังหวัดสตูล,Satun,2013,1433,OS_MB
+จังหวัดสมุทรปราการ,Samut Prakan,2013,43160,OS_MB
+จังหวัดสมุทรสงคราม,Samut Songkhram,2013,2212,OS_MB
+จังหวัดสมุทรสาคร,Samut Sakhon,2013,15388,OS_MB
+จังหวัดสระแก้ว,Sa Kaeo,2013,1443,OS_MB
+จังหวัดสระบุรี,Saraburi,2013,5716,OS_MB
+จังหวัดสิงห์บุรี,Sing Buri,2013,795,OS_MB
+จังหวัดสุโขทัย,Sukhothai,2013,1416,OS_MB
+จังหวัดสุพรรณบุรี,Suphan Buri,2013,3850,OS_MB
+จังหวัดสุราษฎร์ธานี,Surat Thani,2013,20174,OS_MB
+จังหวัดสุรินทร์,Surin,2013,2639,OS_MB
+จังหวัดหนองคาย,Nong Khai,2013,2384,OS_MB
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2013,726,OS_MB
+จังหวัดอ่างทอง,Ang Thong,2013,1236,OS_MB
+จังหวัดอำนาจเจริญ,Amnat Charoen,2013,753,OS_MB
+จังหวัดอุดรธานี,Udon Thani,2013,8337,OS_MB
+จังหวัดอุตรดิตถ์,Uttaradit,2013,1643,OS_MB
+จังหวัดอุทัยธานี,Uthai Thani,2013,587,OS_MB
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2013,6641,OS_MB
+จังหวัดกระบี่,Krabi,2014,8220,OS_MB
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2014,918035,OS_MB
+จังหวัดกาญจนบุรี,Kanchanaburi,2014,3914,OS_MB
+จังหวัดกาฬสินธุ์,Kalasin,2014,1472,OS_MB
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2014,2459,OS_MB
+จังหวัดขอนแก่น,Khon Kaen,2014,25393,OS_MB
+จังหวัดจันทบุรี,Chanthaburi,2014,5000,OS_MB
+จังหวัดฉะเชิงเทรา,Chachoengsao,2014,12142,OS_MB
+จังหวัดชลบุรี,Chon Buri,2014,107491,OS_MB
+จังหวัดชัยนาท,Chai Nat,2014,902,OS_MB
+จังหวัดชัยภูมิ,Chaiyaphum,2014,2463,OS_MB
+จังหวัดชุมพร,Chumphon,2014,4269,OS_MB
+จังหวัดเชียงราย,Chiang Rai,2014,8666,OS_MB
+จังหวัดเชียงใหม่,Chiang Mai,2014,48649,OS_MB
+จังหวัดตรัง,Trang,2014,5242,OS_MB
+จังหวัดตราด,Trat,2014,1513,OS_MB
+จังหวัดตาก,Tak,2014,2432,OS_MB
+จังหวัดนครนายก,Nakhon Nayok,2014,1375,OS_MB
+จังหวัดนครปฐม,Nakhon Pathom,2014,16189,OS_MB
+จังหวัดนครพนม,Nakhon Phanom,2014,1433,OS_MB
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2014,24795,OS_MB
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2014,13574,OS_MB
+จังหวัดนครสวรรค์,Nakhon Sawan,2014,6576,OS_MB
+จังหวัดนนทบุรี,Nonthaburi,2014,51617,OS_MB
+จังหวัดนราธิวาส,Narathiwat,2014,1178,OS_MB
+จังหวัดน่าน,Nan,2014,895,OS_MB
+จังหวัดบึงกาฬ,Bueng Kan,2014,815,OS_MB
+จังหวัดบุรีรัมย์,Buri Ram,2014,3557,OS_MB
+จังหวัดปทุมธานี,Pathum Thani,2014,41641,OS_MB
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2014,9883,OS_MB
+จังหวัดปราจีนบุรี,Prachin Buri,2014,3468,OS_MB
+จังหวัดปัตตานี,Pattani,2014,1405,OS_MB
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2014,14285,OS_MB
+จังหวัดพะเยา,Phayao,2014,2052,OS_MB
+จังหวัดพังงา,Phangnga,2014,2974,OS_MB
+จังหวัดพัทลุง,Phatthalung,2014,2584,OS_MB
+จังหวัดพิจิตร,Phichit,2014,2375,OS_MB
+จังหวัดพิษณุโลก,Phitsanulok,2014,9405,OS_MB
+จังหวัดเพชรบุรี,Phetchaburi,2014,5192,OS_MB
+จังหวัดเพชรบูรณ์,Phetchabun,2014,3203,OS_MB
+จังหวัดแพร่,Phrae,2014,1512,OS_MB
+จังหวัดภูเก็ต,Phuket,2014,55314,OS_MB
+จังหวัดมหาสารคาม,Maha Sarakham,2014,3376,OS_MB
+จังหวัดมุกดาหาร,Mukdahan,2014,1054,OS_MB
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2014,738,OS_MB
+จังหวัดยโสธร,Yasothon,2014,1144,OS_MB
+จังหวัดยะลา,Yala,2014,3398,OS_MB
+จังหวัดร้อยเอ็ด,Roi Et,2014,2845,OS_MB
+จังหวัดระนอง,Ranong,2014,1050,OS_MB
+จังหวัดระยอง,Rayong,2014,30449,OS_MB
+จังหวัดราชบุรี,Ratchaburi,2014,8517,OS_MB
+จังหวัดลพบุรี,Lop Buri,2014,3818,OS_MB
+จังหวัดลำปาง,Lampang,2014,4198,OS_MB
+จังหวัดลำพูน,Lamphun,2014,3135,OS_MB
+จังหวัดเลย,Loei,2014,1391,OS_MB
+จังหวัดศรีสะเกษ,Si Sa Ket,2014,2268,OS_MB
+จังหวัดสกลนคร,Sakon Nakhon,2014,2534,OS_MB
+จังหวัดสงขลา,Songkhla,2014,31995,OS_MB
+จังหวัดสตูล,Satun,2014,1687,OS_MB
+จังหวัดสมุทรปราการ,Samut Prakan,2014,48441,OS_MB
+จังหวัดสมุทรสงคราม,Samut Songkhram,2014,2404,OS_MB
+จังหวัดสมุทรสาคร,Samut Sakhon,2014,17544,OS_MB
+จังหวัดสระแก้ว,Sa Kaeo,2014,1789,OS_MB
+จังหวัดสระบุรี,Saraburi,2014,7136,OS_MB
+จังหวัดสิงห์บุรี,Sing Buri,2014,798,OS_MB
+จังหวัดสุโขทัย,Sukhothai,2014,1533,OS_MB
+จังหวัดสุพรรณบุรี,Suphan Buri,2014,4465,OS_MB
+จังหวัดสุราษฎร์ธานี,Surat Thani,2014,22591,OS_MB
+จังหวัดสุรินทร์,Surin,2014,3250,OS_MB
+จังหวัดหนองคาย,Nong Khai,2014,2664,OS_MB
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2014,864,OS_MB
+จังหวัดอ่างทอง,Ang Thong,2014,1313,OS_MB
+จังหวัดอำนาจเจริญ,Amnat Charoen,2014,850,OS_MB
+จังหวัดอุดรธานี,Udon Thani,2014,10013,OS_MB
+จังหวัดอุตรดิตถ์,Uttaradit,2014,1680,OS_MB
+จังหวัดอุทัยธานี,Uthai Thani,2014,604,OS_MB
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2014,8103,OS_MB
+จังหวัดกระบี่,Krabi,2015Q3,8869,OS_MB
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2015Q3,973365,OS_MB
+จังหวัดกาญจนบุรี,Kanchanaburi,2015Q3,4268,OS_MB
+จังหวัดกาฬสินธุ์,Kalasin,2015Q3,1656,OS_MB
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2015Q3,2668,OS_MB
+จังหวัดขอนแก่น,Khon Kaen,2015Q3,26966,OS_MB
+จังหวัดจันทบุรี,Chanthaburi,2015Q3,5454,OS_MB
+จังหวัดฉะเชิงเทรา,Chachoengsao,2015Q3,13266,OS_MB
+จังหวัดชลบุรี,Chon Buri,2015Q3,122419,OS_MB
+จังหวัดชัยนาท,Chai Nat,2015Q3,930,OS_MB
+จังหวัดชัยภูมิ,Chaiyaphum,2015Q3,2549,OS_MB
+จังหวัดชุมพร,Chumphon,2015Q3,4098,OS_MB
+จังหวัดเชียงราย,Chiang Rai,2015Q3,9704,OS_MB
+จังหวัดเชียงใหม่,Chiang Mai,2015Q3,53023,OS_MB
+จังหวัดตรัง,Trang,2015Q3,5743,OS_MB
+จังหวัดตราด,Trat,2015Q3,1644,OS_MB
+จังหวัดตาก,Tak,2015Q3,2622,OS_MB
+จังหวัดนครนายก,Nakhon Nayok,2015Q3,1491,OS_MB
+จังหวัดนครปฐม,Nakhon Pathom,2015Q3,17678,OS_MB
+จังหวัดนครพนม,Nakhon Phanom,2015Q3,1563,OS_MB
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2015Q3,26048,OS_MB
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2015Q3,14622,OS_MB
+จังหวัดนครสวรรค์,Nakhon Sawan,2015Q3,6878,OS_MB
+จังหวัดนนทบุรี,Nonthaburi,2015Q3,55577,OS_MB
+จังหวัดนราธิวาส,Narathiwat,2015Q3,1360,OS_MB
+จังหวัดน่าน,Nan,2015Q3,881,OS_MB
+จังหวัดบึงกาฬ,Bueng Kan,2015Q3,929,OS_MB
+จังหวัดบุรีรัมย์,Buri Ram,2015Q3,3888,OS_MB
+จังหวัดปทุมธานี,Pathum Thani,2015Q3,44348,OS_MB
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2015Q3,10727,OS_MB
+จังหวัดปราจีนบุรี,Prachin Buri,2015Q3,3858,OS_MB
+จังหวัดปัตตานี,Pattani,2015Q3,1406,OS_MB
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2015Q3,15107,OS_MB
+จังหวัดพะเยา,Phayao,2015Q3,2246,OS_MB
+จังหวัดพังงา,Phangnga,2015Q3,3079,OS_MB
+จังหวัดพัทลุง,Phatthalung,2015Q3,2613,OS_MB
+จังหวัดพิจิตร,Phichit,2015Q3,2476,OS_MB
+จังหวัดพิษณุโลก,Phitsanulok,2015Q3,9944,OS_MB
+จังหวัดเพชรบุรี,Phetchaburi,2015Q3,5588,OS_MB
+จังหวัดเพชรบูรณ์,Phetchabun,2015Q3,3263,OS_MB
+จังหวัดแพร่,Phrae,2015Q3,1627,OS_MB
+จังหวัดภูเก็ต,Phuket,2015Q3,57146,OS_MB
+จังหวัดมหาสารคาม,Maha Sarakham,2015Q3,3996,OS_MB
+จังหวัดมุกดาหาร,Mukdahan,2015Q3,1222,OS_MB
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2015Q3,783,OS_MB
+จังหวัดยโสธร,Yasothon,2015Q3,1267,OS_MB
+จังหวัดยะลา,Yala,2015Q3,3457,OS_MB
+จังหวัดร้อยเอ็ด,Roi Et,2015Q3,3239,OS_MB
+จังหวัดระนอง,Ranong,2015Q3,1087,OS_MB
+จังหวัดระยอง,Rayong,2015Q3,34260,OS_MB
+จังหวัดราชบุรี,Ratchaburi,2015Q3,8973,OS_MB
+จังหวัดลพบุรี,Lop Buri,2015Q3,4073,OS_MB
+จังหวัดลำปาง,Lampang,2015Q3,4441,OS_MB
+จังหวัดลำพูน,Lamphun,2015Q3,3548,OS_MB
+จังหวัดเลย,Loei,2015Q3,1550,OS_MB
+จังหวัดศรีสะเกษ,Si Sa Ket,2015Q3,2424,OS_MB
+จังหวัดสกลนคร,Sakon Nakhon,2015Q3,2895,OS_MB
+จังหวัดสงขลา,Songkhla,2015Q3,34020,OS_MB
+จังหวัดสตูล,Satun,2015Q3,1873,OS_MB
+จังหวัดสมุทรปราการ,Samut Prakan,2015Q3,51182,OS_MB
+จังหวัดสมุทรสงคราม,Samut Songkhram,2015Q3,2584,OS_MB
+จังหวัดสมุทรสาคร,Samut Sakhon,2015Q3,18292,OS_MB
+จังหวัดสระแก้ว,Sa Kaeo,2015Q3,1951,OS_MB
+จังหวัดสระบุรี,Saraburi,2015Q3,7901,OS_MB
+จังหวัดสิงห์บุรี,Sing Buri,2015Q3,848,OS_MB
+จังหวัดสุโขทัย,Sukhothai,2015Q3,1643,OS_MB
+จังหวัดสุพรรณบุรี,Suphan Buri,2015Q3,4664,OS_MB
+จังหวัดสุราษฎร์ธานี,Surat Thani,2015Q3,23624,OS_MB
+จังหวัดสุรินทร์,Surin,2015Q3,3439,OS_MB
+จังหวัดหนองคาย,Nong Khai,2015Q3,2758,OS_MB
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2015Q3,901,OS_MB
+จังหวัดอ่างทอง,Ang Thong,2015Q3,1326,OS_MB
+จังหวัดอำนาจเจริญ,Amnat Charoen,2015Q3,916,OS_MB
+จังหวัดอุดรธานี,Udon Thani,2015Q3,10716,OS_MB
+จังหวัดอุตรดิตถ์,Uttaradit,2015Q3,1697,OS_MB
+จังหวัดอุทัยธานี,Uthai Thani,2015Q3,603,OS_MB
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2015Q3,8951,OS_MB
+จังหวัดกระบี่,Krabi,2015,8832,OS_MB
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2015,1001822,OS_MB
+จังหวัดกาญจนบุรี,Kanchanaburi,2015,4409,OS_MB
+จังหวัดกาฬสินธุ์,Kalasin,2015,1633,OS_MB
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2015,2632,OS_MB
+จังหวัดขอนแก่น,Khon Kaen,2015,27362,OS_MB
+จังหวัดจันทบุรี,Chanthaburi,2015,5469,OS_MB
+จังหวัดฉะเชิงเทรา,Chachoengsao,2015,13506,OS_MB
+จังหวัดชลบุรี,Chon Buri,2015,125584,OS_MB
+จังหวัดชัยนาท,Chai Nat,2015,942,OS_MB
+จังหวัดชัยภูมิ,Chaiyaphum,2015,2536,OS_MB
+จังหวัดชุมพร,Chumphon,2015,4055,OS_MB
+จังหวัดเชียงราย,Chiang Rai,2015,9907,OS_MB
+จังหวัดเชียงใหม่,Chiang Mai,2015,53383,OS_MB
+จังหวัดตรัง,Trang,2015,5715,OS_MB
+จังหวัดตราด,Trat,2015,1687,OS_MB
+จังหวัดตาก,Tak,2015,2634,OS_MB
+จังหวัดนครนายก,Nakhon Nayok,2015,1512,OS_MB
+จังหวัดนครปฐม,Nakhon Pathom,2015,17880,OS_MB
+จังหวัดนครพนม,Nakhon Phanom,2015,1549,OS_MB
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2015,26307,OS_MB
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2015,14684,OS_MB
+จังหวัดนครสวรรค์,Nakhon Sawan,2015,6884,OS_MB
+จังหวัดนนทบุรี,Nonthaburi,2015,58534,OS_MB
+จังหวัดนราธิวาส,Narathiwat,2015,1357,OS_MB
+จังหวัดน่าน,Nan,2015,881,OS_MB
+จังหวัดบึงกาฬ,Bueng Kan,2015,934,OS_MB
+จังหวัดบุรีรัมย์,Buri Ram,2015,3820,OS_MB
+จังหวัดปทุมธานี,Pathum Thani,2015,44898,OS_MB
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2015,10898,OS_MB
+จังหวัดปราจีนบุรี,Prachin Buri,2015,3965,OS_MB
+จังหวัดปัตตานี,Pattani,2015,1366,OS_MB
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2015,15114,OS_MB
+จังหวัดพะเยา,Phayao,2015,2242,OS_MB
+จังหวัดพังงา,Phangnga,2015,3094,OS_MB
+จังหวัดพัทลุง,Phatthalung,2015,2593,OS_MB
+จังหวัดพิจิตร,Phichit,2015,2474,OS_MB
+จังหวัดพิษณุโลก,Phitsanulok,2015,9976,OS_MB
+จังหวัดเพชรบุรี,Phetchaburi,2015,5642,OS_MB
+จังหวัดเพชรบูรณ์,Phetchabun,2015,3257,OS_MB
+จังหวัดแพร่,Phrae,2015,1627,OS_MB
+จังหวัดภูเก็ต,Phuket,2015,57202,OS_MB
+จังหวัดมหาสารคาม,Maha Sarakham,2015,4055,OS_MB
+จังหวัดมุกดาหาร,Mukdahan,2015,1248,OS_MB
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2015,767,OS_MB
+จังหวัดยโสธร,Yasothon,2015,1277,OS_MB
+จังหวัดยะลา,Yala,2015,3409,OS_MB
+จังหวัดร้อยเอ็ด,Roi Et,2015,3336,OS_MB
+จังหวัดระนอง,Ranong,2015,1089,OS_MB
+จังหวัดระยอง,Rayong,2015,35115,OS_MB
+จังหวัดราชบุรี,Ratchaburi,2015,9002,OS_MB
+จังหวัดลพบุรี,Lop Buri,2015,4113,OS_MB
+จังหวัดลำปาง,Lampang,2015,4413,OS_MB
+จังหวัดลำพูน,Lamphun,2015,3623,OS_MB
+จังหวัดเลย,Loei,2015,1562,OS_MB
+จังหวัดศรีสะเกษ,Si Sa Ket,2015,2410,OS_MB
+จังหวัดสกลนคร,Sakon Nakhon,2015,2896,OS_MB
+จังหวัดสงขลา,Songkhla,2015,33778,OS_MB
+จังหวัดสตูล,Satun,2015,1858,OS_MB
+จังหวัดสมุทรปราการ,Samut Prakan,2015,52234,OS_MB
+จังหวัดสมุทรสงคราม,Samut Songkhram,2015,2582,OS_MB
+จังหวัดสมุทรสาคร,Samut Sakhon,2015,18484,OS_MB
+จังหวัดสระแก้ว,Sa Kaeo,2015,1972,OS_MB
+จังหวัดสระบุรี,Saraburi,2015,8003,OS_MB
+จังหวัดสิงห์บุรี,Sing Buri,2015,825,OS_MB
+จังหวัดสุโขทัย,Sukhothai,2015,1614,OS_MB
+จังหวัดสุพรรณบุรี,Suphan Buri,2015,4757,OS_MB
+จังหวัดสุราษฎร์ธานี,Surat Thani,2015,23702,OS_MB
+จังหวัดสุรินทร์,Surin,2015,3432,OS_MB
+จังหวัดหนองคาย,Nong Khai,2015,2740,OS_MB
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2015,899,OS_MB
+จังหวัดอ่างทอง,Ang Thong,2015,1332,OS_MB
+จังหวัดอำนาจเจริญ,Amnat Charoen,2015,942,OS_MB
+จังหวัดอุดรธานี,Udon Thani,2015,10915,OS_MB
+จังหวัดอุตรดิตถ์,Uttaradit,2015,1694,OS_MB
+จังหวัดอุทัยธานี,Uthai Thani,2015,586,OS_MB
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2015,9052,OS_MB
+จังหวัดกระบี่,Krabi,2016Q3,8771,OS_MB
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2016Q3,1066468,OS_MB
+จังหวัดกาญจนบุรี,Kanchanaburi,2016Q3,4715,OS_MB
+จังหวัดกาฬสินธุ์,Kalasin,2016Q3,1651,OS_MB
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2016Q3,2348,OS_MB
+จังหวัดขอนแก่น,Khon Kaen,2016Q3,27654,OS_MB
+จังหวัดจันทบุรี,Chanthaburi,2016Q3,5580,OS_MB
+จังหวัดฉะเชิงเทรา,Chachoengsao,2016Q3,12925,OS_MB
+จังหวัดชลบุรี,Chon Buri,2016Q3,136505,OS_MB
+จังหวัดชัยนาท,Chai Nat,2016Q3,973,OS_MB
+จังหวัดชัยภูมิ,Chaiyaphum,2016Q3,2570,OS_MB
+จังหวัดชุมพร,Chumphon,2016Q3,3939,OS_MB
+จังหวัดเชียงราย,Chiang Rai,2016Q3,9549,OS_MB
+จังหวัดเชียงใหม่,Chiang Mai,2016Q3,56058,OS_MB
+จังหวัดตรัง,Trang,2016Q3,5913,OS_MB
+จังหวัดตราด,Trat,2016Q3,1767,OS_MB
+จังหวัดตาก,Tak,2016Q3,2633,OS_MB
+จังหวัดนครนายก,Nakhon Nayok,2016Q3,1569,OS_MB
+จังหวัดนครปฐม,Nakhon Pathom,2016Q3,18955,OS_MB
+จังหวัดนครพนม,Nakhon Phanom,2016Q3,1420,OS_MB
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2016Q3,27431,OS_MB
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2016Q3,14793,OS_MB
+จังหวัดนครสวรรค์,Nakhon Sawan,2016Q3,6716,OS_MB
+จังหวัดนนทบุรี,Nonthaburi,2016Q3,63616,OS_MB
+จังหวัดนราธิวาส,Narathiwat,2016Q3,1548,OS_MB
+จังหวัดน่าน,Nan,2016Q3,876,OS_MB
+จังหวัดบึงกาฬ,Bueng Kan,2016Q3,970,OS_MB
+จังหวัดบุรีรัมย์,Buri Ram,2016Q3,3879,OS_MB
+จังหวัดปทุมธานี,Pathum Thani,2016Q3,46541,OS_MB
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2016Q3,11449,OS_MB
+จังหวัดปราจีนบุรี,Prachin Buri,2016Q3,4264,OS_MB
+จังหวัดปัตตานี,Pattani,2016Q3,1393,OS_MB
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2016Q3,15341,OS_MB
+จังหวัดพะเยา,Phayao,2016Q3,1933,OS_MB
+จังหวัดพังงา,Phangnga,2016Q3,3025,OS_MB
+จังหวัดพัทลุง,Phatthalung,2016Q3,2958,OS_MB
+จังหวัดพิจิตร,Phichit,2016Q3,2395,OS_MB
+จังหวัดพิษณุโลก,Phitsanulok,2016Q3,9994,OS_MB
+จังหวัดเพชรบุรี,Phetchaburi,2016Q3,5942,OS_MB
+จังหวัดเพชรบูรณ์,Phetchabun,2016Q3,3304,OS_MB
+จังหวัดแพร่,Phrae,2016Q3,1641,OS_MB
+จังหวัดภูเก็ต,Phuket,2016Q3,58179,OS_MB
+จังหวัดมหาสารคาม,Maha Sarakham,2016Q3,4228,OS_MB
+จังหวัดมุกดาหาร,Mukdahan,2016Q3,1291,OS_MB
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2016Q3,675,OS_MB
+จังหวัดยโสธร,Yasothon,2016Q3,1247,OS_MB
+จังหวัดยะลา,Yala,2016Q3,3244,OS_MB
+จังหวัดร้อยเอ็ด,Roi Et,2016Q3,3567,OS_MB
+จังหวัดระนอง,Ranong,2016Q3,1135,OS_MB
+จังหวัดระยอง,Rayong,2016Q3,38871,OS_MB
+จังหวัดราชบุรี,Ratchaburi,2016Q3,9158,OS_MB
+จังหวัดลพบุรี,Lop Buri,2016Q3,4229,OS_MB
+จังหวัดลำปาง,Lampang,2016Q3,4849,OS_MB
+จังหวัดลำพูน,Lamphun,2016Q3,3902,OS_MB
+จังหวัดเลย,Loei,2016Q3,1682,OS_MB
+จังหวัดศรีสะเกษ,Si Sa Ket,2016Q3,2432,OS_MB
+จังหวัดสกลนคร,Sakon Nakhon,2016Q3,2871,OS_MB
+จังหวัดสงขลา,Songkhla,2016Q3,34963,OS_MB
+จังหวัดสตูล,Satun,2016Q3,1877,OS_MB
+จังหวัดสมุทรปราการ,Samut Prakan,2016Q3,55339,OS_MB
+จังหวัดสมุทรสงคราม,Samut Songkhram,2016Q3,2641,OS_MB
+จังหวัดสมุทรสาคร,Samut Sakhon,2016Q3,18917,OS_MB
+จังหวัดสระแก้ว,Sa Kaeo,2016Q3,2092,OS_MB
+จังหวัดสระบุรี,Saraburi,2016Q3,8405,OS_MB
+จังหวัดสิงห์บุรี,Sing Buri,2016Q3,832,OS_MB
+จังหวัดสุโขทัย,Sukhothai,2016Q3,1603,OS_MB
+จังหวัดสุพรรณบุรี,Suphan Buri,2016Q3,4868,OS_MB
+จังหวัดสุราษฎร์ธานี,Surat Thani,2016Q3,23615,OS_MB
+จังหวัดสุรินทร์,Surin,2016Q3,3396,OS_MB
+จังหวัดหนองคาย,Nong Khai,2016Q3,2645,OS_MB
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2016Q3,919,OS_MB
+จังหวัดอ่างทอง,Ang Thong,2016Q3,1324,OS_MB
+จังหวัดอำนาจเจริญ,Amnat Charoen,2016Q3,1003,OS_MB
+จังหวัดอุดรธานี,Udon Thani,2016Q3,11309,OS_MB
+จังหวัดอุตรดิตถ์,Uttaradit,2016Q3,1682,OS_MB
+จังหวัดอุทัยธานี,Uthai Thani,2016Q3,580,OS_MB
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2016Q3,9328,OS_MB
+จังหวัดกระบี่,Krabi,2012,1.28,Ticket_MB
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2012,1.36,Ticket_MB
+จังหวัดกาญจนบุรี,Kanchanaburi,2012,0.77,Ticket_MB
+จังหวัดกาฬสินธุ์,Kalasin,2012,0.78,Ticket_MB
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2012,0.89,Ticket_MB
+จังหวัดขอนแก่น,Khon Kaen,2012,0.96,Ticket_MB
+จังหวัดจันทบุรี,Chanthaburi,2012,1.02,Ticket_MB
+จังหวัดฉะเชิงเทรา,Chachoengsao,2012,0.85,Ticket_MB
+จังหวัดชลบุรี,Chon Buri,2012,1,Ticket_MB
+จังหวัดชัยนาท,Chai Nat,2012,0.8,Ticket_MB
+จังหวัดชัยภูมิ,Chaiyaphum,2012,0.73,Ticket_MB
+จังหวัดชุมพร,Chumphon,2012,0.82,Ticket_MB
+จังหวัดเชียงราย,Chiang Rai,2012,0.88,Ticket_MB
+จังหวัดเชียงใหม่,Chiang Mai,2012,1.03,Ticket_MB
+จังหวัดตรัง,Trang,2012,0.84,Ticket_MB
+จังหวัดตราด,Trat,2012,0.95,Ticket_MB
+จังหวัดตาก,Tak,2012,0.85,Ticket_MB
+จังหวัดนครนายก,Nakhon Nayok,2012,0.72,Ticket_MB
+จังหวัดนครปฐม,Nakhon Pathom,2012,0.97,Ticket_MB
+จังหวัดนครพนม,Nakhon Phanom,2012,0.8,Ticket_MB
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2012,0.94,Ticket_MB
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2012,0.72,Ticket_MB
+จังหวัดนครสวรรค์,Nakhon Sawan,2012,0.94,Ticket_MB
+จังหวัดนนทบุรี,Nonthaburi,2012,1.25,Ticket_MB
+จังหวัดนราธิวาส,Narathiwat,2012,0.72,Ticket_MB
+จังหวัดน่าน,Nan,2012,0.78,Ticket_MB
+จังหวัดบึงกาฬ,Bueng Kan,2012,1.05,Ticket_MB
+จังหวัดบุรีรัมย์,Buri Ram,2012,0.86,Ticket_MB
+จังหวัดปทุมธานี,Pathum Thani,2012,1.02,Ticket_MB
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2012,1.1,Ticket_MB
+จังหวัดปราจีนบุรี,Prachin Buri,2012,0.54,Ticket_MB
+จังหวัดปัตตานี,Pattani,2012,0.87,Ticket_MB
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2012,0.72,Ticket_MB
+จังหวัดพะเยา,Phayao,2012,0.84,Ticket_MB
+จังหวัดพังงา,Phangnga,2012,1.27,Ticket_MB
+จังหวัดพัทลุง,Phatthalung,2012,1,Ticket_MB
+จังหวัดพิจิตร,Phichit,2012,0.84,Ticket_MB
+จังหวัดพิษณุโลก,Phitsanulok,2012,1.07,Ticket_MB
+จังหวัดเพชรบุรี,Phetchaburi,2012,1.01,Ticket_MB
+จังหวัดเพชรบูรณ์,Phetchabun,2012,0.69,Ticket_MB
+จังหวัดแพร่,Phrae,2012,0.65,Ticket_MB
+จังหวัดภูเก็ต,Phuket,2012,1.4,Ticket_MB
+จังหวัดมหาสารคาม,Maha Sarakham,2012,0.82,Ticket_MB
+จังหวัดมุกดาหาร,Mukdahan,2012,0.83,Ticket_MB
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2012,1.06,Ticket_MB
+จังหวัดยโสธร,Yasothon,2012,0.74,Ticket_MB
+จังหวัดยะลา,Yala,2012,0.86,Ticket_MB
+จังหวัดร้อยเอ็ด,Roi Et,2012,0.82,Ticket_MB
+จังหวัดระนอง,Ranong,2012,0.96,Ticket_MB
+จังหวัดระยอง,Rayong,2012,0.98,Ticket_MB
+จังหวัดราชบุรี,Ratchaburi,2012,0.89,Ticket_MB
+จังหวัดลพบุรี,Lop Buri,2012,0.63,Ticket_MB
+จังหวัดลำปาง,Lampang,2012,0.68,Ticket_MB
+จังหวัดลำพูน,Lamphun,2012,0.68,Ticket_MB
+จังหวัดเลย,Loei,2012,0.57,Ticket_MB
+จังหวัดศรีสะเกษ,Si Sa Ket,2012,0.75,Ticket_MB
+จังหวัดสกลนคร,Sakon Nakhon,2012,0.94,Ticket_MB
+จังหวัดสงขลา,Songkhla,2012,0.92,Ticket_MB
+จังหวัดสตูล,Satun,2012,0.79,Ticket_MB
+จังหวัดสมุทรปราการ,Samut Prakan,2012,1.16,Ticket_MB
+จังหวัดสมุทรสงคราม,Samut Songkhram,2012,0.94,Ticket_MB
+จังหวัดสมุทรสาคร,Samut Sakhon,2012,1.07,Ticket_MB
+จังหวัดสระแก้ว,Sa Kaeo,2012,0.76,Ticket_MB
+จังหวัดสระบุรี,Saraburi,2012,0.71,Ticket_MB
+จังหวัดสิงห์บุรี,Sing Buri,2012,0.71,Ticket_MB
+จังหวัดสุโขทัย,Sukhothai,2012,0.75,Ticket_MB
+จังหวัดสุพรรณบุรี,Suphan Buri,2012,0.88,Ticket_MB
+จังหวัดสุราษฎร์ธานี,Surat Thani,2012,0.96,Ticket_MB
+จังหวัดสุรินทร์,Surin,2012,0.86,Ticket_MB
+จังหวัดหนองคาย,Nong Khai,2012,0.96,Ticket_MB
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2012,0.96,Ticket_MB
+จังหวัดอ่างทอง,Ang Thong,2012,0.78,Ticket_MB
+จังหวัดอำนาจเจริญ,Amnat Charoen,2012,0.84,Ticket_MB
+จังหวัดอุดรธานี,Udon Thani,2012,0.85,Ticket_MB
+จังหวัดอุตรดิตถ์,Uttaradit,2012,0.83,Ticket_MB
+จังหวัดอุทัยธานี,Uthai Thani,2012,0.79,Ticket_MB
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2012,0.93,Ticket_MB
+จังหวัดกระบี่,Krabi,2013,1.39,Ticket_MB
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2013,1.4,Ticket_MB
+จังหวัดกาญจนบุรี,Kanchanaburi,2013,0.89,Ticket_MB
+จังหวัดกาฬสินธุ์,Kalasin,2013,0.87,Ticket_MB
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2013,0.98,Ticket_MB
+จังหวัดขอนแก่น,Khon Kaen,2013,1.14,Ticket_MB
+จังหวัดจันทบุรี,Chanthaburi,2013,1.14,Ticket_MB
+จังหวัดฉะเชิงเทรา,Chachoengsao,2013,0.94,Ticket_MB
+จังหวัดชลบุรี,Chon Buri,2013,1.13,Ticket_MB
+จังหวัดชัยนาท,Chai Nat,2013,0.95,Ticket_MB
+จังหวัดชัยภูมิ,Chaiyaphum,2013,0.88,Ticket_MB
+จังหวัดชุมพร,Chumphon,2013,0.92,Ticket_MB
+จังหวัดเชียงราย,Chiang Rai,2013,1.04,Ticket_MB
+จังหวัดเชียงใหม่,Chiang Mai,2013,1.21,Ticket_MB
+จังหวัดตรัง,Trang,2013,1.01,Ticket_MB
+จังหวัดตราด,Trat,2013,1.11,Ticket_MB
+จังหวัดตาก,Tak,2013,1,Ticket_MB
+จังหวัดนครนายก,Nakhon Nayok,2013,0.85,Ticket_MB
+จังหวัดนครปฐม,Nakhon Pathom,2013,1.05,Ticket_MB
+จังหวัดนครพนม,Nakhon Phanom,2013,0.97,Ticket_MB
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2013,1.09,Ticket_MB
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2013,0.9,Ticket_MB
+จังหวัดนครสวรรค์,Nakhon Sawan,2013,1.08,Ticket_MB
+จังหวัดนนทบุรี,Nonthaburi,2013,1.33,Ticket_MB
+จังหวัดนราธิวาส,Narathiwat,2013,0.85,Ticket_MB
+จังหวัดน่าน,Nan,2013,0.9,Ticket_MB
+จังหวัดบึงกาฬ,Bueng Kan,2013,1.46,Ticket_MB
+จังหวัดบุรีรัมย์,Buri Ram,2013,1.08,Ticket_MB
+จังหวัดปทุมธานี,Pathum Thani,2013,1.08,Ticket_MB
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2013,1.23,Ticket_MB
+จังหวัดปราจีนบุรี,Prachin Buri,2013,0.64,Ticket_MB
+จังหวัดปัตตานี,Pattani,2013,0.99,Ticket_MB
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2013,0.82,Ticket_MB
+จังหวัดพะเยา,Phayao,2013,1.01,Ticket_MB
+จังหวัดพังงา,Phangnga,2013,1.39,Ticket_MB
+จังหวัดพัทลุง,Phatthalung,2013,1.16,Ticket_MB
+จังหวัดพิจิตร,Phichit,2013,0.93,Ticket_MB
+จังหวัดพิษณุโลก,Phitsanulok,2013,1.16,Ticket_MB
+จังหวัดเพชรบุรี,Phetchaburi,2013,1.14,Ticket_MB
+จังหวัดเพชรบูรณ์,Phetchabun,2013,0.8,Ticket_MB
+จังหวัดแพร่,Phrae,2013,0.77,Ticket_MB
+จังหวัดภูเก็ต,Phuket,2013,1.6,Ticket_MB
+จังหวัดมหาสารคาม,Maha Sarakham,2013,0.95,Ticket_MB
+จังหวัดมุกดาหาร,Mukdahan,2013,0.94,Ticket_MB
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2013,1.1,Ticket_MB
+จังหวัดยโสธร,Yasothon,2013,0.94,Ticket_MB
+จังหวัดยะลา,Yala,2013,0.98,Ticket_MB
+จังหวัดร้อยเอ็ด,Roi Et,2013,0.94,Ticket_MB
+จังหวัดระนอง,Ranong,2013,1.06,Ticket_MB
+จังหวัดระยอง,Rayong,2013,1.12,Ticket_MB
+จังหวัดราชบุรี,Ratchaburi,2013,1.03,Ticket_MB
+จังหวัดลพบุรี,Lop Buri,2013,0.74,Ticket_MB
+จังหวัดลำปาง,Lampang,2013,0.83,Ticket_MB
+จังหวัดลำพูน,Lamphun,2013,0.85,Ticket_MB
+จังหวัดเลย,Loei,2013,0.73,Ticket_MB
+จังหวัดศรีสะเกษ,Si Sa Ket,2013,0.86,Ticket_MB
+จังหวัดสกลนคร,Sakon Nakhon,2013,1.09,Ticket_MB
+จังหวัดสงขลา,Songkhla,2013,1.11,Ticket_MB
+จังหวัดสตูล,Satun,2013,0.96,Ticket_MB
+จังหวัดสมุทรปราการ,Samut Prakan,2013,1.22,Ticket_MB
+จังหวัดสมุทรสงคราม,Samut Songkhram,2013,1.03,Ticket_MB
+จังหวัดสมุทรสาคร,Samut Sakhon,2013,1.21,Ticket_MB
+จังหวัดสระแก้ว,Sa Kaeo,2013,1.01,Ticket_MB
+จังหวัดสระบุรี,Saraburi,2013,0.79,Ticket_MB
+จังหวัดสิงห์บุรี,Sing Buri,2013,0.77,Ticket_MB
+จังหวัดสุโขทัย,Sukhothai,2013,0.97,Ticket_MB
+จังหวัดสุพรรณบุรี,Suphan Buri,2013,0.98,Ticket_MB
+จังหวัดสุราษฎร์ธานี,Surat Thani,2013,1.15,Ticket_MB
+จังหวัดสุรินทร์,Surin,2013,1.04,Ticket_MB
+จังหวัดหนองคาย,Nong Khai,2013,1.08,Ticket_MB
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2013,1.18,Ticket_MB
+จังหวัดอ่างทอง,Ang Thong,2013,0.83,Ticket_MB
+จังหวัดอำนาจเจริญ,Amnat Charoen,2013,0.94,Ticket_MB
+จังหวัดอุดรธานี,Udon Thani,2013,1.04,Ticket_MB
+จังหวัดอุตรดิตถ์,Uttaradit,2013,0.93,Ticket_MB
+จังหวัดอุทัยธานี,Uthai Thani,2013,0.9,Ticket_MB
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2013,1.14,Ticket_MB
+จังหวัดกระบี่,Krabi,2014,1.43,Ticket_MB
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2014,1.37,Ticket_MB
+จังหวัดกาญจนบุรี,Kanchanaburi,2014,0.95,Ticket_MB
+จังหวัดกาฬสินธุ์,Kalasin,2014,0.95,Ticket_MB
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2014,1.07,Ticket_MB
+จังหวัดขอนแก่น,Khon Kaen,2014,1.26,Ticket_MB
+จังหวัดจันทบุรี,Chanthaburi,2014,1.23,Ticket_MB
+จังหวัดฉะเชิงเทรา,Chachoengsao,2014,1.03,Ticket_MB
+จังหวัดชลบุรี,Chon Buri,2014,1.15,Ticket_MB
+จังหวัดชัยนาท,Chai Nat,2014,1.03,Ticket_MB
+จังหวัดชัยภูมิ,Chaiyaphum,2014,0.89,Ticket_MB
+จังหวัดชุมพร,Chumphon,2014,0.96,Ticket_MB
+จังหวัดเชียงราย,Chiang Rai,2014,1.12,Ticket_MB
+จังหวัดเชียงใหม่,Chiang Mai,2014,1.26,Ticket_MB
+จังหวัดตรัง,Trang,2014,1.07,Ticket_MB
+จังหวัดตราด,Trat,2014,1.23,Ticket_MB
+จังหวัดตาก,Tak,2014,1.1,Ticket_MB
+จังหวัดนครนายก,Nakhon Nayok,2014,0.94,Ticket_MB
+จังหวัดนครปฐม,Nakhon Pathom,2014,1.1,Ticket_MB
+จังหวัดนครพนม,Nakhon Phanom,2014,1.08,Ticket_MB
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2014,1.18,Ticket_MB
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2014,0.96,Ticket_MB
+จังหวัดนครสวรรค์,Nakhon Sawan,2014,1.12,Ticket_MB
+จังหวัดนนทบุรี,Nonthaburi,2014,1.4,Ticket_MB
+จังหวัดนราธิวาส,Narathiwat,2014,1.04,Ticket_MB
+จังหวัดน่าน,Nan,2014,0.93,Ticket_MB
+จังหวัดบึงกาฬ,Bueng Kan,2014,1.54,Ticket_MB
+จังหวัดบุรีรัมย์,Buri Ram,2014,1.22,Ticket_MB
+จังหวัดปทุมธานี,Pathum Thani,2014,1.14,Ticket_MB
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2014,1.23,Ticket_MB
+จังหวัดปราจีนบุรี,Prachin Buri,2014,0.7,Ticket_MB
+จังหวัดปัตตานี,Pattani,2014,1.11,Ticket_MB
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2014,0.87,Ticket_MB
+จังหวัดพะเยา,Phayao,2014,1.1,Ticket_MB
+จังหวัดพังงา,Phangnga,2014,1.42,Ticket_MB
+จังหวัดพัทลุง,Phatthalung,2014,1.2,Ticket_MB
+จังหวัดพิจิตร,Phichit,2014,0.95,Ticket_MB
+จังหวัดพิษณุโลก,Phitsanulok,2014,1.25,Ticket_MB
+จังหวัดเพชรบุรี,Phetchaburi,2014,1.18,Ticket_MB
+จังหวัดเพชรบูรณ์,Phetchabun,2014,0.87,Ticket_MB
+จังหวัดแพร่,Phrae,2014,0.81,Ticket_MB
+จังหวัดภูเก็ต,Phuket,2014,1.53,Ticket_MB
+จังหวัดมหาสารคาม,Maha Sarakham,2014,1.02,Ticket_MB
+จังหวัดมุกดาหาร,Mukdahan,2014,1.09,Ticket_MB
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2014,1.18,Ticket_MB
+จังหวัดยโสธร,Yasothon,2014,1.04,Ticket_MB
+จังหวัดยะลา,Yala,2014,1.08,Ticket_MB
+จังหวัดร้อยเอ็ด,Roi Et,2014,1.02,Ticket_MB
+จังหวัดระนอง,Ranong,2014,1.09,Ticket_MB
+จังหวัดระยอง,Rayong,2014,1.13,Ticket_MB
+จังหวัดราชบุรี,Ratchaburi,2014,1.06,Ticket_MB
+จังหวัดลพบุรี,Lop Buri,2014,0.81,Ticket_MB
+จังหวัดลำปาง,Lampang,2014,0.83,Ticket_MB
+จังหวัดลำพูน,Lamphun,2014,0.87,Ticket_MB
+จังหวัดเลย,Loei,2014,0.79,Ticket_MB
+จังหวัดศรีสะเกษ,Si Sa Ket,2014,0.93,Ticket_MB
+จังหวัดสกลนคร,Sakon Nakhon,2014,1.19,Ticket_MB
+จังหวัดสงขลา,Songkhla,2014,1.16,Ticket_MB
+จังหวัดสตูล,Satun,2014,1.04,Ticket_MB
+จังหวัดสมุทรปราการ,Samut Prakan,2014,1.28,Ticket_MB
+จังหวัดสมุทรสงคราม,Samut Songkhram,2014,1.05,Ticket_MB
+จังหวัดสมุทรสาคร,Samut Sakhon,2014,1.26,Ticket_MB
+จังหวัดสระแก้ว,Sa Kaeo,2014,1.16,Ticket_MB
+จังหวัดสระบุรี,Saraburi,2014,0.88,Ticket_MB
+จังหวัดสิงห์บุรี,Sing Buri,2014,0.8,Ticket_MB
+จังหวัดสุโขทัย,Sukhothai,2014,1.04,Ticket_MB
+จังหวัดสุพรรณบุรี,Suphan Buri,2014,1.09,Ticket_MB
+จังหวัดสุราษฎร์ธานี,Surat Thani,2014,1.19,Ticket_MB
+จังหวัดสุรินทร์,Surin,2014,1.2,Ticket_MB
+จังหวัดหนองคาย,Nong Khai,2014,1.22,Ticket_MB
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2014,1.25,Ticket_MB
+จังหวัดอ่างทอง,Ang Thong,2014,0.86,Ticket_MB
+จังหวัดอำนาจเจริญ,Amnat Charoen,2014,0.99,Ticket_MB
+จังหวัดอุดรธานี,Udon Thani,2014,1.12,Ticket_MB
+จังหวัดอุตรดิตถ์,Uttaradit,2014,0.94,Ticket_MB
+จังหวัดอุทัยธานี,Uthai Thani,2014,0.93,Ticket_MB
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2014,1.24,Ticket_MB
+จังหวัดกระบี่,Krabi,2015Q3,1.57,Ticket_MB
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2015Q3,1.47,Ticket_MB
+จังหวัดกาญจนบุรี,Kanchanaburi,2015Q3,1.07,Ticket_MB
+จังหวัดกาฬสินธุ์,Kalasin,2015Q3,1.13,Ticket_MB
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2015Q3,1.16,Ticket_MB
+จังหวัดขอนแก่น,Khon Kaen,2015Q3,1.34,Ticket_MB
+จังหวัดจันทบุรี,Chanthaburi,2015Q3,1.27,Ticket_MB
+จังหวัดฉะเชิงเทรา,Chachoengsao,2015Q3,1.11,Ticket_MB
+จังหวัดชลบุรี,Chon Buri,2015Q3,1.23,Ticket_MB
+จังหวัดชัยนาท,Chai Nat,2015Q3,1.07,Ticket_MB
+จังหวัดชัยภูมิ,Chaiyaphum,2015Q3,0.96,Ticket_MB
+จังหวัดชุมพร,Chumphon,2015Q3,1.04,Ticket_MB
+จังหวัดเชียงราย,Chiang Rai,2015Q3,1.23,Ticket_MB
+จังหวัดเชียงใหม่,Chiang Mai,2015Q3,1.38,Ticket_MB
+จังหวัดตรัง,Trang,2015Q3,1.22,Ticket_MB
+จังหวัดตราด,Trat,2015Q3,1.32,Ticket_MB
+จังหวัดตาก,Tak,2015Q3,1.2,Ticket_MB
+จังหวัดนครนายก,Nakhon Nayok,2015Q3,1.04,Ticket_MB
+จังหวัดนครปฐม,Nakhon Pathom,2015Q3,1.22,Ticket_MB
+จังหวัดนครพนม,Nakhon Phanom,2015Q3,1.21,Ticket_MB
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2015Q3,1.29,Ticket_MB
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2015Q3,1.11,Ticket_MB
+จังหวัดนครสวรรค์,Nakhon Sawan,2015Q3,1.2,Ticket_MB
+จังหวัดนนทบุรี,Nonthaburi,2015Q3,1.5,Ticket_MB
+จังหวัดนราธิวาส,Narathiwat,2015Q3,1.14,Ticket_MB
+จังหวัดน่าน,Nan,2015Q3,1.05,Ticket_MB
+จังหวัดบึงกาฬ,Bueng Kan,2015Q3,1.68,Ticket_MB
+จังหวัดบุรีรัมย์,Buri Ram,2015Q3,1.35,Ticket_MB
+จังหวัดปทุมธานี,Pathum Thani,2015Q3,1.25,Ticket_MB
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2015Q3,1.35,Ticket_MB
+จังหวัดปราจีนบุรี,Prachin Buri,2015Q3,0.84,Ticket_MB
+จังหวัดปัตตานี,Pattani,2015Q3,1.16,Ticket_MB
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2015Q3,0.96,Ticket_MB
+จังหวัดพะเยา,Phayao,2015Q3,1.2,Ticket_MB
+จังหวัดพังงา,Phangnga,2015Q3,1.52,Ticket_MB
+จังหวัดพัทลุง,Phatthalung,2015Q3,1.32,Ticket_MB
+จังหวัดพิจิตร,Phichit,2015Q3,1.03,Ticket_MB
+จังหวัดพิษณุโลก,Phitsanulok,2015Q3,1.31,Ticket_MB
+จังหวัดเพชรบุรี,Phetchaburi,2015Q3,1.26,Ticket_MB
+จังหวัดเพชรบูรณ์,Phetchabun,2015Q3,0.92,Ticket_MB
+จังหวัดแพร่,Phrae,2015Q3,0.91,Ticket_MB
+จังหวัดภูเก็ต,Phuket,2015Q3,1.7,Ticket_MB
+จังหวัดมหาสารคาม,Maha Sarakham,2015Q3,1.18,Ticket_MB
+จังหวัดมุกดาหาร,Mukdahan,2015Q3,1.27,Ticket_MB
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2015Q3,1.24,Ticket_MB
+จังหวัดยโสธร,Yasothon,2015Q3,1.16,Ticket_MB
+จังหวัดยะลา,Yala,2015Q3,1.08,Ticket_MB
+จังหวัดร้อยเอ็ด,Roi Et,2015Q3,1.2,Ticket_MB
+จังหวัดระนอง,Ranong,2015Q3,1.16,Ticket_MB
+จังหวัดระยอง,Rayong,2015Q3,1.24,Ticket_MB
+จังหวัดราชบุรี,Ratchaburi,2015Q3,1.15,Ticket_MB
+จังหวัดลพบุรี,Lop Buri,2015Q3,0.88,Ticket_MB
+จังหวัดลำปาง,Lampang,2015Q3,0.93,Ticket_MB
+จังหวัดลำพูน,Lamphun,2015Q3,0.98,Ticket_MB
+จังหวัดเลย,Loei,2015Q3,0.95,Ticket_MB
+จังหวัดศรีสะเกษ,Si Sa Ket,2015Q3,1.03,Ticket_MB
+จังหวัดสกลนคร,Sakon Nakhon,2015Q3,1.32,Ticket_MB
+จังหวัดสงขลา,Songkhla,2015Q3,1.26,Ticket_MB
+จังหวัดสตูล,Satun,2015Q3,1.15,Ticket_MB
+จังหวัดสมุทรปราการ,Samut Prakan,2015Q3,1.35,Ticket_MB
+จังหวัดสมุทรสงคราม,Samut Songkhram,2015Q3,1.12,Ticket_MB
+จังหวัดสมุทรสาคร,Samut Sakhon,2015Q3,1.34,Ticket_MB
+จังหวัดสระแก้ว,Sa Kaeo,2015Q3,1.28,Ticket_MB
+จังหวัดสระบุรี,Saraburi,2015Q3,0.98,Ticket_MB
+จังหวัดสิงห์บุรี,Sing Buri,2015Q3,0.89,Ticket_MB
+จังหวัดสุโขทัย,Sukhothai,2015Q3,1.12,Ticket_MB
+จังหวัดสุพรรณบุรี,Suphan Buri,2015Q3,1.16,Ticket_MB
+จังหวัดสุราษฎร์ธานี,Surat Thani,2015Q3,1.31,Ticket_MB
+จังหวัดสุรินทร์,Surin,2015Q3,1.31,Ticket_MB
+จังหวัดหนองคาย,Nong Khai,2015Q3,1.3,Ticket_MB
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2015Q3,1.36,Ticket_MB
+จังหวัดอ่างทอง,Ang Thong,2015Q3,0.89,Ticket_MB
+จังหวัดอำนาจเจริญ,Amnat Charoen,2015Q3,1.1,Ticket_MB
+จังหวัดอุดรธานี,Udon Thani,2015Q3,1.22,Ticket_MB
+จังหวัดอุตรดิตถ์,Uttaradit,2015Q3,0.98,Ticket_MB
+จังหวัดอุทัยธานี,Uthai Thani,2015Q3,0.99,Ticket_MB
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2015Q3,1.38,Ticket_MB
+จังหวัดกระบี่,Krabi,2015,1.57,Ticket_MB
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2015,1.49,Ticket_MB
+จังหวัดกาญจนบุรี,Kanchanaburi,2015,1.09,Ticket_MB
+จังหวัดกาฬสินธุ์,Kalasin,2015,1.12,Ticket_MB
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2015,1.16,Ticket_MB
+จังหวัดขอนแก่น,Khon Kaen,2015,1.35,Ticket_MB
+จังหวัดจันทบุรี,Chanthaburi,2015,1.27,Ticket_MB
+จังหวัดฉะเชิงเทรา,Chachoengsao,2015,1.11,Ticket_MB
+จังหวัดชลบุรี,Chon Buri,2015,1.23,Ticket_MB
+จังหวัดชัยนาท,Chai Nat,2015,1.1,Ticket_MB
+จังหวัดชัยภูมิ,Chaiyaphum,2015,0.97,Ticket_MB
+จังหวัดชุมพร,Chumphon,2015,1.04,Ticket_MB
+จังหวัดเชียงราย,Chiang Rai,2015,1.24,Ticket_MB
+จังหวัดเชียงใหม่,Chiang Mai,2015,1.38,Ticket_MB
+จังหวัดตรัง,Trang,2015,1.21,Ticket_MB
+จังหวัดตราด,Trat,2015,1.34,Ticket_MB
+จังหวัดตาก,Tak,2015,1.22,Ticket_MB
+จังหวัดนครนายก,Nakhon Nayok,2015,1.06,Ticket_MB
+จังหวัดนครปฐม,Nakhon Pathom,2015,1.23,Ticket_MB
+จังหวัดนครพนม,Nakhon Phanom,2015,1.2,Ticket_MB
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2015,1.3,Ticket_MB
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2015,1.12,Ticket_MB
+จังหวัดนครสวรรค์,Nakhon Sawan,2015,1.22,Ticket_MB
+จังหวัดนนทบุรี,Nonthaburi,2015,1.53,Ticket_MB
+จังหวัดนราธิวาส,Narathiwat,2015,1.14,Ticket_MB
+จังหวัดน่าน,Nan,2015,1.07,Ticket_MB
+จังหวัดบึงกาฬ,Bueng Kan,2015,1.67,Ticket_MB
+จังหวัดบุรีรัมย์,Buri Ram,2015,1.36,Ticket_MB
+จังหวัดปทุมธานี,Pathum Thani,2015,1.25,Ticket_MB
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2015,1.35,Ticket_MB
+จังหวัดปราจีนบุรี,Prachin Buri,2015,0.85,Ticket_MB
+จังหวัดปัตตานี,Pattani,2015,1.14,Ticket_MB
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2015,0.96,Ticket_MB
+จังหวัดพะเยา,Phayao,2015,1.2,Ticket_MB
+จังหวัดพังงา,Phangnga,2015,1.53,Ticket_MB
+จังหวัดพัทลุง,Phatthalung,2015,1.31,Ticket_MB
+จังหวัดพิจิตร,Phichit,2015,1.04,Ticket_MB
+จังหวัดพิษณุโลก,Phitsanulok,2015,1.32,Ticket_MB
+จังหวัดเพชรบุรี,Phetchaburi,2015,1.27,Ticket_MB
+จังหวัดเพชรบูรณ์,Phetchabun,2015,0.93,Ticket_MB
+จังหวัดแพร่,Phrae,2015,0.91,Ticket_MB
+จังหวัดภูเก็ต,Phuket,2015,1.69,Ticket_MB
+จังหวัดมหาสารคาม,Maha Sarakham,2015,1.19,Ticket_MB
+จังหวัดมุกดาหาร,Mukdahan,2015,1.29,Ticket_MB
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2015,1.22,Ticket_MB
+จังหวัดยโสธร,Yasothon,2015,1.17,Ticket_MB
+จังหวัดยะลา,Yala,2015,1.07,Ticket_MB
+จังหวัดร้อยเอ็ด,Roi Et,2015,1.22,Ticket_MB
+จังหวัดระนอง,Ranong,2015,1.16,Ticket_MB
+จังหวัดระยอง,Rayong,2015,1.24,Ticket_MB
+จังหวัดราชบุรี,Ratchaburi,2015,1.16,Ticket_MB
+จังหวัดลพบุรี,Lop Buri,2015,0.9,Ticket_MB
+จังหวัดลำปาง,Lampang,2015,0.93,Ticket_MB
+จังหวัดลำพูน,Lamphun,2015,1,Ticket_MB
+จังหวัดเลย,Loei,2015,0.95,Ticket_MB
+จังหวัดศรีสะเกษ,Si Sa Ket,2015,1.02,Ticket_MB
+จังหวัดสกลนคร,Sakon Nakhon,2015,1.32,Ticket_MB
+จังหวัดสงขลา,Songkhla,2015,1.25,Ticket_MB
+จังหวัดสตูล,Satun,2015,1.14,Ticket_MB
+จังหวัดสมุทรปราการ,Samut Prakan,2015,1.37,Ticket_MB
+จังหวัดสมุทรสงคราม,Samut Songkhram,2015,1.12,Ticket_MB
+จังหวัดสมุทรสาคร,Samut Sakhon,2015,1.35,Ticket_MB
+จังหวัดสระแก้ว,Sa Kaeo,2015,1.29,Ticket_MB
+จังหวัดสระบุรี,Saraburi,2015,0.99,Ticket_MB
+จังหวัดสิงห์บุรี,Sing Buri,2015,0.88,Ticket_MB
+จังหวัดสุโขทัย,Sukhothai,2015,1.11,Ticket_MB
+จังหวัดสุพรรณบุรี,Suphan Buri,2015,1.19,Ticket_MB
+จังหวัดสุราษฎร์ธานี,Surat Thani,2015,1.31,Ticket_MB
+จังหวัดสุรินทร์,Surin,2015,1.27,Ticket_MB
+จังหวัดหนองคาย,Nong Khai,2015,1.29,Ticket_MB
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2015,1.35,Ticket_MB
+จังหวัดอ่างทอง,Ang Thong,2015,0.9,Ticket_MB
+จังหวัดอำนาจเจริญ,Amnat Charoen,2015,1.14,Ticket_MB
+จังหวัดอุดรธานี,Udon Thani,2015,1.23,Ticket_MB
+จังหวัดอุตรดิตถ์,Uttaradit,2015,0.99,Ticket_MB
+จังหวัดอุทัยธานี,Uthai Thani,2015,0.99,Ticket_MB
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2015,1.39,Ticket_MB
+จังหวัดกระบี่,Krabi,2016Q3,1.56,Ticket_MB
+จังหวัดกรุงเทพมหานคร,Bangkok Metropolis,2016Q3,1.5,Ticket_MB
+จังหวัดกาญจนบุรี,Kanchanaburi,2016Q3,1.13,Ticket_MB
+จังหวัดกาฬสินธุ์,Kalasin,2016Q3,1.13,Ticket_MB
+จังหวัดกำแพงเพชร,Kamphaeng Phet,2016Q3,1.13,Ticket_MB
+จังหวัดขอนแก่น,Khon Kaen,2016Q3,1.34,Ticket_MB
+จังหวัดจันทบุรี,Chanthaburi,2016Q3,1.27,Ticket_MB
+จังหวัดฉะเชิงเทรา,Chachoengsao,2016Q3,1.14,Ticket_MB
+จังหวัดชลบุรี,Chon Buri,2016Q3,1.23,Ticket_MB
+จังหวัดชัยนาท,Chai Nat,2016Q3,1.12,Ticket_MB
+จังหวัดชัยภูมิ,Chaiyaphum,2016Q3,0.98,Ticket_MB
+จังหวัดชุมพร,Chumphon,2016Q3,1.04,Ticket_MB
+จังหวัดเชียงราย,Chiang Rai,2016Q3,1.23,Ticket_MB
+จังหวัดเชียงใหม่,Chiang Mai,2016Q3,1.4,Ticket_MB
+จังหวัดตรัง,Trang,2016Q3,1.22,Ticket_MB
+จังหวัดตราด,Trat,2016Q3,1.37,Ticket_MB
+จังหวัดตาก,Tak,2016Q3,1.24,Ticket_MB
+จังหวัดนครนายก,Nakhon Nayok,2016Q3,1.06,Ticket_MB
+จังหวัดนครปฐม,Nakhon Pathom,2016Q3,1.25,Ticket_MB
+จังหวัดนครพนม,Nakhon Phanom,2016Q3,1.18,Ticket_MB
+จังหวัดนครราชสีมา,Nakhon Ratchasima,2016Q3,1.29,Ticket_MB
+จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat,2016Q3,1.11,Ticket_MB
+จังหวัดนครสวรรค์,Nakhon Sawan,2016Q3,1.21,Ticket_MB
+จังหวัดนนทบุรี,Nonthaburi,2016Q3,1.56,Ticket_MB
+จังหวัดนราธิวาส,Narathiwat,2016Q3,1.17,Ticket_MB
+จังหวัดน่าน,Nan,2016Q3,1.1,Ticket_MB
+จังหวัดบึงกาฬ,Bueng Kan,2016Q3,1.64,Ticket_MB
+จังหวัดบุรีรัมย์,Buri Ram,2016Q3,1.37,Ticket_MB
+จังหวัดปทุมธานี,Pathum Thani,2016Q3,1.25,Ticket_MB
+จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan,2016Q3,1.34,Ticket_MB
+จังหวัดปราจีนบุรี,Prachin Buri,2016Q3,0.9,Ticket_MB
+จังหวัดปัตตานี,Pattani,2016Q3,1.15,Ticket_MB
+จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,2016Q3,0.98,Ticket_MB
+จังหวัดพะเยา,Phayao,2016Q3,1.15,Ticket_MB
+จังหวัดพังงา,Phangnga,2016Q3,1.49,Ticket_MB
+จังหวัดพัทลุง,Phatthalung,2016Q3,1.26,Ticket_MB
+จังหวัดพิจิตร,Phichit,2016Q3,1.04,Ticket_MB
+จังหวัดพิษณุโลก,Phitsanulok,2016Q3,1.31,Ticket_MB
+จังหวัดเพชรบุรี,Phetchaburi,2016Q3,1.27,Ticket_MB
+จังหวัดเพชรบูรณ์,Phetchabun,2016Q3,0.96,Ticket_MB
+จังหวัดแพร่,Phrae,2016Q3,0.95,Ticket_MB
+จังหวัดภูเก็ต,Phuket,2016Q3,1.67,Ticket_MB
+จังหวัดมหาสารคาม,Maha Sarakham,2016Q3,1.2,Ticket_MB
+จังหวัดมุกดาหาร,Mukdahan,2016Q3,1.31,Ticket_MB
+จังหวัดแม่ฮ่องสอน,Mae Hong Son,2016Q3,1.34,Ticket_MB
+จังหวัดยโสธร,Yasothon,2016Q3,1.2,Ticket_MB
+จังหวัดยะลา,Yala,2016Q3,1.05,Ticket_MB
+จังหวัดร้อยเอ็ด,Roi Et,2016Q3,1.25,Ticket_MB
+จังหวัดระนอง,Ranong,2016Q3,1.18,Ticket_MB
+จังหวัดระยอง,Rayong,2016Q3,1.26,Ticket_MB
+จังหวัดราชบุรี,Ratchaburi,2016Q3,1.16,Ticket_MB
+จังหวัดลพบุรี,Lop Buri,2016Q3,0.92,Ticket_MB
+จังหวัดลำปาง,Lampang,2016Q3,0.96,Ticket_MB
+จังหวัดลำพูน,Lamphun,2016Q3,1.04,Ticket_MB
+จังหวัดเลย,Loei,2016Q3,0.96,Ticket_MB
+จังหวัดศรีสะเกษ,Si Sa Ket,2016Q3,1.05,Ticket_MB
+จังหวัดสกลนคร,Sakon Nakhon,2016Q3,1.29,Ticket_MB
+จังหวัดสงขลา,Songkhla,2016Q3,1.25,Ticket_MB
+จังหวัดสตูล,Satun,2016Q3,1.15,Ticket_MB
+จังหวัดสมุทรปราการ,Samut Prakan,2016Q3,1.38,Ticket_MB
+จังหวัดสมุทรสงคราม,Samut Songkhram,2016Q3,1.14,Ticket_MB
+จังหวัดสมุทรสาคร,Samut Sakhon,2016Q3,1.35,Ticket_MB
+จังหวัดสระแก้ว,Sa Kaeo,2016Q3,1.34,Ticket_MB
+จังหวัดสระบุรี,Saraburi,2016Q3,1.01,Ticket_MB
+จังหวัดสิงห์บุรี,Sing Buri,2016Q3,0.92,Ticket_MB
+จังหวัดสุโขทัย,Sukhothai,2016Q3,1.12,Ticket_MB
+จังหวัดสุพรรณบุรี,Suphan Buri,2016Q3,1.21,Ticket_MB
+จังหวัดสุราษฎร์ธานี,Surat Thani,2016Q3,1.29,Ticket_MB
+จังหวัดสุรินทร์,Surin,2016Q3,1.27,Ticket_MB
+จังหวัดหนองคาย,Nong Khai,2016Q3,1.31,Ticket_MB
+จังหวัดหนองบัวลำภู,Nong Bua Lam Phu,2016Q3,1.33,Ticket_MB
+จังหวัดอ่างทอง,Ang Thong,2016Q3,0.89,Ticket_MB
+จังหวัดอำนาจเจริญ,Amnat Charoen,2016Q3,1.14,Ticket_MB
+จังหวัดอุดรธานี,Udon Thani,2016Q3,1.24,Ticket_MB
+จังหวัดอุตรดิตถ์,Uttaradit,2016Q3,1,Ticket_MB
+จังหวัดอุทัยธานี,Uthai Thani,2016Q3,1,Ticket_MB
+จังหวัดอุบลราชธานี,Ubon Ratchathani,2016Q3,1.4,Ticket_MB
